@@ -121,9 +121,15 @@ AC_CONFIG_FILES([Makefile
 		 tables/am/Makefile
 		 tables/ar/Arabic.txt
 		 tables/ar/Makefile
+		 tables/ban/Makefile
+		 tables/ban/Balinese.txt
+		 tables/bbc/Makefile
+		 tables/bbc/BatakToba.txt
 		 tables/bn/Bengali-inscript.txt
 		 tables/bn/Bengali-probhat.txt
 		 tables/bn/Makefile
+		 tables/bug/Makefile
+		 tables/bug/Buginese.txt
 		 tables/gr/Makefile
 		 tables/gr/greekpoly.txt
 		 tables/gu/Gujarati-inscript.txt
@@ -140,6 +146,8 @@ AC_CONFIG_FILES([Makefile
 		 tables/ja/KATAKANA.txt
 		 tables/ja/Makefile
 		 tables/ja/Nippon.txt
+		 tables/jv/Makefile
+		 tables/jv/Javanese.txt
 		 tables/kn/Kannada-inscript.txt
 		 tables/kn/Kannada-kgp.txt
 		 tables/kn/Makefile
@@ -160,11 +168,15 @@ AC_CONFIG_FILES([Makefile
 		 tables/pa/Punjabi-jhelum.txt
 		 tables/pa/Punjabi-phonetic.txt
 		 tables/pa/Punjabi-remington.txt
+		 tables/rej/Makefile
+		 tables/rej/Rejang.txt
 		 tables/ru/Makefile
 		 tables/ru/RussianTraditional.txt
 		 tables/ru/RussianComputer.txt
 		 tables/ru/Translit.txt
 		 tables/ru/Yawerty.txt
+		 tables/su/Makefile
+		 tables/su/Sundanese.txt
 		 tables/ta/Makefile
 		 tables/ta/Tamil-inscript.txt
 		 tables/ta/Tamil-phonetic.txt
